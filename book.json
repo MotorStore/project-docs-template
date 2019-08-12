@@ -1,0 +1,22 @@
+{
+	"title": "项目文档",
+	"plugins-docs": "http://gitbook.zhangjikai.com/plugins.html",
+	"plugins": [
+		"mermaid", "custom-js-css", "expandable-chapters",
+		"-toggle-chapters", "sectionx", "search", 
+		"search-plus","custom-html", "-sharing", 
+		"-fontsettings","tbfed-pagefooter","edit-link",
+		"terminal","copy-code-button","alerts","puml"
+	],
+	"pluginsConfig": {
+		"tbfed-pagefooter": {
+	        "copyright":"编撰者：蓝欧团队",
+	        "modify_label": "该文件修订时间：",
+	        "modify_format": "YYYY-MM-DD HH:mm:ss"
+	    },
+	    "edit-link": {
+	        "base": "https://github.com/shuise/baby-docs/edit/master",
+	        "label": "修改本页"
+	    }
+	}
+}

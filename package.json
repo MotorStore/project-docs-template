@@ -1,0 +1,13 @@
+{
+  "name": "Book-Developer-BasicInfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "shuise@bluetech.top",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "ebook-convert": "^2.0.1"
+  }
+}
