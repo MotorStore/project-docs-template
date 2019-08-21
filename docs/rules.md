@@ -4,16 +4,23 @@
 
 1. tab == 4个空格
 2. utf8 编码
-3. 
+3. [git 规范](./git.html)
 
 
 ## 业务约定：
 
-1. pad 用户加特殊前缀区分: BAbYPAD (注意第二个b小写)
-2. role: boy,girl,pa,ma,grandpa,grandma,grandpaL,grandmaL
-
-	对应：男孩、女孩、爸爸、妈妈、爷爷、奶奶、外公、外婆
-
-	头像网络地址: https://baby.motorstore.cn/roles/{role}.png
+1. userId 规范
+2. groupId 规范
 3. imToken 为 base64 编码，返回时不允许转义
 4. 时间单位统一用 秒
+5. 日期格式 2019.8.20
+
+
+## 开发标准姿势
+
+1. 阅读需求说明、明确需求
+2. 阅读交互说明、接口
+3. 有问题先沟通确认，一起修改文档并同步到项目群
+4. 严格按照文档开发
+5. 按照测试用例自测
+6. 按时间提交并完成日志

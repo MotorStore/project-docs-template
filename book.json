@@ -15,7 +15,7 @@
 	        "modify_format": "YYYY-MM-DD HH:mm:ss"
 	    },
 	    "edit-link": {
-	        "base": "https://github.com/shuise/baby-docs/edit/master",
+	        "base": "https://github.com/shuise/project-manage-docs/edit/master",
 	        "label": "修改本页"
 	    }
 	}
